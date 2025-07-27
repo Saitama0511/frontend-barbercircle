@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Frontend para marketplace de barberos",
   "private": true,
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -45,4 +48,4 @@
     "postcss": "^8.4.32"
   },
   "proxy": "http://localhost:5000"
-} 
+}
