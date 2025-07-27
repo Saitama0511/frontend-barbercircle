@@ -4,7 +4,7 @@
   "description": "Frontend para marketplace de barberos",
   "private": true,
   "engines": {
-    "node": "18.x"
+    "node": "20.x"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
